@@ -1,2 +1,2 @@
-# Housing - cap.2
+# Housing
 Com base em dados demográficos contendo informações sobre população, renda média e preço médio do imóvel para diferentes grupos de bairros, o objetivo é criar um modelo capaz de estimar o valor de um imóvel em qualquer região.
